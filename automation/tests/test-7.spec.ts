@@ -205,7 +205,7 @@ test('test', async ({ page }) => {
 
   // await page.getByRole('button', { name: 'Enable OTP Field' }).click();
   await page.getByRole('button', { name: 'Disable OTP Field' }).click();
-});
+})
 
 
 
